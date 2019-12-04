@@ -1,0 +1,8 @@
+br/edu/infnet/clientService/security/SecurityConfig.class
+br/edu/infnet/clientService/DemoApplication.class
+br/edu/infnet/clientService/entity/Usuario.class
+br/edu/infnet/clientService/repository/ClienteRepository.class
+br/edu/infnet/clientService/config/SwaggerConfig$1.class
+br/edu/infnet/clientService/controller/ClienteController.class
+br/edu/infnet/clientService/config/SwaggerConfig.class
+br/edu/infnet/clientService/entity/Cliente.class
